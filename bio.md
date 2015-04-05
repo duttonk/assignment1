@@ -5,5 +5,6 @@
   * Music
   * Reading
   * Movies
+  * Learning
 
 ##Programming Background
